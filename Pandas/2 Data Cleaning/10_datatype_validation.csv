@@ -1,0 +1,21 @@
+name,gender,age,salary,city,date of joining,is_full_time
+Amit,Male,28,40769,Kolkata,30-10-2021,TRUE
+Riya,Female,41,99735,Pune,09-02-2018,Yes
+John,Male,36,"96,101",Pune,02-06-2019,1
+Neha,Female,32,42433.5,Kolkata,04-03-2020,TRUE
+Siddharth,Male,29,45311,Pune,15-10-2022,TRUE
+Zoe,Female,42 years,77819,Bangalore,28-11-2023,TRUE
+Ken,Male,28,79188,Chennai,12-05-2018,TRUE
+Anjali,Female,47,57568,Kolkata,25-10-2020,TRUE
+Vijay,Male,40,$93707,Chennai,06-09-2022,TRUE
+Priya,Female,44,59769,Delhi,03-09-2022,TRUE
+Rahul,Male,Unknown,68693,Bangalore,09-03-2020,No
+Sonia,Female,32,46396,Hyderabad,13-03-2019,0
+Mike,Male,45,67480,Bangalore,"Feb 9, 2023",TRUE
+Sara,Female,42,81434,Kolkata,24-09-2018,TRUE
+David,Male,25,65658,Hyderabad,24-09-2020,TRUE
+Emma,Female,29,58942,Delhi,13-10-2020,FALSE
+Liam,Male,45,97001,Kolkata,16-09-2018,TRUE
+Olivia,Female,24,58431,Mumbai,06-04-2022,TRUE
+Raj,Male,43,42747,Chennai,14-05-2022,TRUE
+Simran,Female,42,98319,Delhi,20-01-2022,TRUE

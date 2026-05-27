@@ -1,0 +1,54 @@
+id,name,department,age,salary,joining_date,city
+1, amit ,Sales,25,50000,10-01-2021,delhi
+2,Riya,HR,,$60000,15-05-2020,Mumbai
+3,John,IT,28,55000,15-03-2019,Delhi
+4,Neha,Sales,35,,01-07-2018,Bangalore
+5,Amit,Sales,25 years,"50,000",10-01-2021,DL
+6,Vikram  ,IT,30,72000,20-11-2022,Chennai
+7,Sonia,hr,29,58000/-,12-09-2021,mumbai
+8, Rahul,sales  ,,45000,10-04-2017,Delhi
+9,Priya,IT  ,24,65000,22-01-2023,Pune
+10,Amit,Sales   ,25,$50000,10-01-2021,dl
+11,Karan,Finance,32,80000,05-12-2019,Bangalore
+12,Sneha,Hr  ,27,52000,18-03-2021,Bombay
+13,Rohan,IT  ,31 years,,25-06-2021,Delhi
+14,Anjali,Sales,26,48000,14-02-2022,Pune
+15,Varun,finance  ,40,95000,30-10-2016,Chennai
+15,Varun,finance  ,40,95000,30-10-2016,Chennai
+16,Varun,Finance,40,95000/-,30-10-2016,Chennai
+17,Megha,IT,,62000,12-12-2020,Delhi
+18,  arjun,Sales,33,54000,20-05-2018,Mumbai
+19,Pooja,HR,28,51000,05-08-2021,delhi
+20,Aman,IT,25,"70,000",15-01-2023,Bangalore
+21,Shweta,Finance,29,75000,11-11-2019,Pune
+22,Kunal,Sales,34,,21-09-2017,Delhi
+23,Nisha,HR,24 years,49000,05-05-2022,Mumbai
+24,Ravi,IT,27,68000,10-10-2020,Chennai
+25,Amit,Sales,25,"50,000","Jan 10, 2021",delhi
+25,Amit,Sales,25,"50,000","Jan 10, 2021",delhi
+26,Tara  ,Finance,31,82000,12-04-2018,Bangalore
+27, Yash,IT,26,63000/-,01-12-2021,Delhi
+28,Divya,HR,,55000,19-07-2019,Pune
+29,Sameer  ,Sales,30 years,53000,14-02-2020,Bombay
+30,Ishita,it,28,69000,30-08-2022,Chennai
+31,Ishita,IT,28,$69000,30-08-2022,Chennai
+32,  manish,Finance,35,88000,25-01-2017,Delhi
+33,Ravi,IT,27,68000,10-10-2020,Chennai
+34,Aryan,HR,29,59000,05-11-2020,Pune
+34,Aryan,HR,29,59000,05-11-2020,Pune
+35,Simran,It,32,,14-05-2016,  mumbai
+36,Kabir,Finance,27 years,72000,20-10-2021,delhi  
+37,Riya,HR,,60000,15-05-2020,  Bombay
+38,Aditi,Sales,30,55000,28-02-2019,Chennai
+39,Akash,IT,26,"64,000",07-07-2021,Bangalore
+40,Zoya,HR,25,50000,18-06-2022,Delhi
+41,Abhay,Finance,38,92000,12-12-2015,Pune
+42,deepa,Sales,27 years,49000,09-09-2020,Mumbai
+43,Sahil,IT,,71000/-,01-04-2023,Chennai
+44,Pankaj,Finance,33,81000,22-11-2018,Delhi
+45,Kavita  ,HR,26,53000,05-10-2021,Bangalore
+46,Suraj,Sales,31,"$56,000",14-08-2017,Pune
+47,Suraj,Sales,31,56000,14-08-2017,Pune
+48,Divya,HR,,55000,19-07-2019,Pune
+49,Raj,Finance,29,77000,15-05-2019,Chennai
+50,Heena,HR,30,"58,000/-",20-02-2020,Dl
